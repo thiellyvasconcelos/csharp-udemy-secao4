@@ -1,0 +1,15 @@
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\bin\Debug\net5.0\Course.exe
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\bin\Debug\net5.0\Course.deps.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\bin\Debug\net5.0\Course.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\bin\Debug\net5.0\ref\Course.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\bin\Debug\net5.0\Course.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\Course.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\ref\Course.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\Course.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4-Exercicios\Media-Funcionario\obj\Debug\net5.0\Course.genruntimeconfig.cache

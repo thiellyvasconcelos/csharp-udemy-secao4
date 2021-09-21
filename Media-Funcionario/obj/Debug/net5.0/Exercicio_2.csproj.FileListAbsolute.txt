@@ -1,0 +1,16 @@
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\bin\Debug\net5.0\Exercicio_2.exe
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\bin\Debug\net5.0\Exercicio_2.deps.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\bin\Debug\net5.0\Exercicio_2.runtimeconfig.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\bin\Debug\net5.0\Exercicio_2.runtimeconfig.dev.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\bin\Debug\net5.0\Exercicio_2.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\bin\Debug\net5.0\ref\Exercicio_2.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\bin\Debug\net5.0\Exercicio_2.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.csproj.AssemblyReference.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.AssemblyInfoInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.AssemblyInfo.cs
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\ref\Exercicio_2.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Exercicio_2\obj\Debug\net5.0\Exercicio_2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\bin\Debug\net5.0\Secao4.exe
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\bin\Debug\net5.0\Secao4.deps.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\bin\Debug\net5.0\Secao4.runtimeconfig.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\bin\Debug\net5.0\Secao4.runtimeconfig.dev.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\bin\Debug\net5.0\Secao4.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\bin\Debug\net5.0\ref\Secao4.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\bin\Debug\net5.0\Secao4.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.csproj.AssemblyReference.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.AssemblyInfoInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.AssemblyInfo.cs
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.csproj.CoreCompileInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\ref\Secao4.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Secao4\Secao4\Secao4\obj\Debug\net5.0\Secao4.genruntimeconfig.cache
